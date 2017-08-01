@@ -12,7 +12,7 @@
 * Flexbox
 * className
 
-## Lesson Battle Plan 
+## Lesson Battle Plan ---
 
 - Steps to get up and running
   - Step 1: fork and clone this project and cd into it.
